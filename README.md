@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sivasai0234" target="blank"><img src="https://img.shields.io/twitter/follow/sivasai0234?logo=twitter&style=for-the-badge" alt="sivasai0234" /></a> </p>
 
+<p><img align="right" src="https://camo.githubusercontent.com/e2a3dceabf499e12b729bc940459ad3c50bea314f4726d92f5b21a56a4bb0498/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e6769663f6369643d373930623736313132306630643234306632393435393666376238366463303562333832663861363838313430653861267269643d67697068792e6769662663743d67" /></p>
+
 - 🔭 I’m currently working on **Learning new skills**
 
 - ⚡ Fun Fact: **Exploring new skills**
@@ -32,6 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasai08&show_icons=true&locale=en" alt="sivasai08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasai08&" alt="sivasai08" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
